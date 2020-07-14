@@ -1,0 +1,12 @@
+export const FETCH_SINGERS_NAMES = "FETCH_SINGERS_NAMES";
+export const ALL_SONGS_FOR_SINGER = "ALL_SONGS";
+export const ONE_SINGER_URL = "SONG_URLS";
+export const USER_CREATED = "USER_CREATED";
+export const CREATION_ERORR = "CREATION_ERORR";
+export const RESET = "RESET";
+export const CHECK_SINGED_IN = "CHECK_SINGED_IN";
+export const LOG_OUT = "LOG_OUT";
+export const LOG_OUT_ERROR = "LOG_OUT_ERROR";
+export const SAVED_SONG = "SAVED_SONG";
+export const SAVED_SONG_ERROR = "SAVED_SONG_ERROR";
+export const FETCH_LIKED_SONG = "FETCH_LIKED_SONG";
